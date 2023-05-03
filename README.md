@@ -154,6 +154,10 @@ We get:
 
 But with Lakeroad, we get:
 
+```sh
+./mul-intel-yosys-lakeroad.sh
+```
+
 ```
 ...
 
